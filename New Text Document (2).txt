@@ -1,8 +1,13 @@
 shvchjchx 
 cx 
+<<<<<<< HEAD
 super fun 
 superb
 great resolve
+=======
+
+great resolve the matter 1
+>>>>>>> medium
 
 
 
