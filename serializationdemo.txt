@@ -1,5 +1,18 @@
+<<<<<<< HEAD
+¬í sr A.SerializationDef	ŒcZ¥¸ø L Featuret Ljava/lang/String;L Productq ~ xpt testFeaturet testProduct
+good morning
+hi 
+2+2=4
+hello 
+jyotijyotijyoti
+new changes
+ 
+
+new changes
+
 
 number 2+4=6
 number 2+4=8
 hello 
 jyoti
+
