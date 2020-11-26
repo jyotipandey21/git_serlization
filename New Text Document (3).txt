@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 brand new 
 brand new 
 brand new 
+=======
+brand new
+brand new
+brand new
+brand new
+>>>>>>> 54462dbdd0221e927df6274dbeda52def3a1dada
